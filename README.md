@@ -1,2 +1,14 @@
-# snake-game
-A classic Snake game built with Python and Turtle graphics. Features include score tracking, progressive speed increase, and a game over screen.
+# Snake Game 🐍
+
+A classic Snake game built with Python and Turtle graphics.
+
+## Features
+- Score tracking
+- Progressive speed increase
+- Game over screen
+
+## Download
+Download the latest version from the Releases section.
+
+## Requirements
+Python
