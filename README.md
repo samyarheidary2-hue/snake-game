@@ -11,4 +11,4 @@ A classic Snake game built with Python and Turtle graphics.
 Download the latest version from the Releases section.
 
 ## Requirements
-Python
+Python 3.x
