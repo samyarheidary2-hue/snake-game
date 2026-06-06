@@ -9,6 +9,7 @@ A classic Snake game built with Python and Turtle graphics.
 
 ## Download
 Download the latest version from the Releases section.
+
 How to run the game:
 
 1. Download the ZIP file
